@@ -1,0 +1,40 @@
+/* .fed{
+    text-align: right;
+    margin-top: -35px;
+} */
+body{
+    background-color: black;
+    width: auto;
+}
+.ultra{
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+    color: white;
+}
+img{
+    border-radius: 100px 0 100px 0;
+}
+.waq{
+    text-align: center;
+    margin-top: -150px;
+    font-size: x-large;
+}
+.txt{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.port{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 1px;
+}
+.fert{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
